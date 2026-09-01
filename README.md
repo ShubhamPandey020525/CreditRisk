@@ -1,5 +1,23 @@
 # AI Credit Risk Assessment System
 
+## 📸 System Previews
+
+### Landing Page
+![Landing Page](proofs/1%20%20landing%20page.png)
+
+### User Input UI
+![User Input Base UI](proofs/2%20user%20inputbase%20%20ui.png)
+
+### Test Case 1: Input & Output
+![User Input Test Case 1](proofs/3%20user%20input%20test%20case%201.png)
+![Output Test Case 1](proofs/4%20output%20test%20case%201.png)
+
+### Test Case 2: Input & Output
+![User Input Test Case 2](proofs/5%20user%20input%20test%20case%202.png)
+![Output Test Case 2](proofs/6%20output%20test%20case%202.png)
+
+---
+
 An end-to-end, AI-powered credit risk evaluation platform designed for modern banks and financial institutions. This system uses a pre-trained XGBoost machine learning model to predict loan defaults and features a **Business-Driven SHAP Explainability Engine** to mathematically prove *why* an application was approved or rejected using a visual Risk Waterfall chart.
 
 ## 🚀 Key Features
