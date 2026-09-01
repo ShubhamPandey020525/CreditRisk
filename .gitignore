@@ -54,3 +54,10 @@ Thumbs.db
 
 # Project Specific Overrides
 !README.md
+
+# Media & Videos (Avoid pushing large video files)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
