@@ -16,6 +16,13 @@
 ![User Input Test Case 2](proofs/5%20user%20input%20test%20case%202.png)
 ![Output Test Case 2](proofs/6%20output%20test%20case%202.png)
 
+## 🎥 Full Video Demonstration
+
+> [!TIP]
+> **[▶️ Click here to watch the full HD Video Demo on Google Drive](https://drive.google.com/file/d/1n4kEwJ8qUcsHP7uQtOekE6ly_MyvLNis/view?usp=sharing)**
+> 
+> *The video demonstrates the complete end-to-end workflow, data entry, real-time AI processing, and the mathematical Risk Waterfall visualization.*
+
 ---
 
 An end-to-end, AI-powered credit risk evaluation platform designed for modern banks and financial institutions. This system uses a pre-trained XGBoost machine learning model to predict loan defaults and features a **Business-Driven SHAP Explainability Engine** to mathematically prove *why* an application was approved or rejected using a visual Risk Waterfall chart.
