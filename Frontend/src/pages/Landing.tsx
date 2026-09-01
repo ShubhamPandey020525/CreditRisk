@@ -423,7 +423,7 @@ const Landing = () => {
                   <div>
                     <div style={{ fontSize: '0.7rem', fontWeight: 800, color: '#ec4899', textTransform: 'uppercase', letterSpacing: '0.1em', marginBottom: '1rem', paddingBottom: '0.5rem', borderBottom: '1px solid rgba(236,72,153,0.2)' }}>Financial Profile</div>
                     {[
-                      { id: 'person_income', label: 'Annual Income ($)', type: 'number', placeholder: '65000', min: 1000, max: 10000000 },
+                      { id: 'person_income', label: 'Annual Income ($)', type: 'number', placeholder: '65000', min: 1000 },
                       { id: 'person_emp_length', label: 'Employment Length (yrs)', type: 'number', placeholder: '5.5', min: 0, max: 80, step: 0.1 },
                       { id: 'cb_person_cred_hist_length', label: 'Credit History (yrs)', type: 'number', placeholder: '4', min: 0, max: 80, step: 0.1 },
                     ].map(f => (
